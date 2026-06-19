@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # 🎨 Design Skills Repository
 
 Una colección abierta de skills para diseñadores que buscan crear mejores productos, tomar mejores decisiones y potenciar su trabajo con metodologías, buenas prácticas e inteligencia artificial.
