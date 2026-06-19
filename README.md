@@ -2,7 +2,6 @@
 
 Una colección abierta de skills para diseñadores que buscan crear mejores productos, tomar mejores decisiones y potenciar su trabajo con metodologías, buenas prácticas e inteligencia artificial.
 
----
 
 ## ✨ ¿Qué es este repositorio?
 
@@ -12,7 +11,6 @@ Aquí encontrarás una colección de **skills documentadas en formato Markdown**
 
 El objetivo no es reemplazar el criterio profesional ni ofrecer fórmulas mágicas. Cada skill busca servir como una herramienta práctica que te ayude a abordar problemas de diseño desde diferentes perspectivas, aportando procesos, marcos de trabajo y conocimientos aplicables al mundo real.
 
----
 
 ## 🧩 ¿Qué tipo de skills encontrarás?
 
@@ -30,7 +28,6 @@ Dentro del repositorio podrás encontrar habilidades relacionadas con:
 - Procesos de descubrimiento y validación
 - Y otras áreas relacionadas con la creación de productos digitales
 
----
 
 ## 🤖 Compatible con tu flujo de trabajo
 
@@ -49,7 +46,6 @@ Al estar escritas en Markdown, estas skills pueden utilizarse fácilmente en her
 
 Puedes utilizarlas como material de consulta, documentación de referencia o como contexto para asistentes de inteligencia artificial.
 
----
 
 ## 🌱 Filosofía del proyecto
 
@@ -59,7 +55,6 @@ Por eso este repositorio está pensado como una biblioteca abierta de habilidade
 
 Toma lo que necesites, combínalo con tu experiencia y utilízalo para construir mejores productos.
 
----
 
 ## 🚀 Cómo empezar
 
@@ -69,7 +64,6 @@ Toma lo que necesites, combínalo con tu experiencia y utilízalo para construir
 4. Aplícala en tu proyecto.
 5. Itera y mejora.
 
----
 
 ## 🤝 Cómo contribuir
 
