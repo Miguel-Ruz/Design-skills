@@ -29,23 +29,107 @@ Dentro del repositorio podrás encontrar habilidades relacionadas con:
 - Y otras áreas relacionadas con la creación de productos digitales
 
 
-## 🤖 Compatible con tu flujo de trabajo
+## Integración de Skills
 
-Al estar escritas en Markdown, estas skills pueden utilizarse fácilmente en herramientas como:
+### Claude Code
 
-- ChatGPT
-- Claude
-- Cursor
-- GitHub Copilot
-- Figma Make
-- Obsidian
-- VS Code
-- Windsurf
-- Kiro
-- Cualquier otra herramienta que permita trabajar con documentación, contexto o instrucciones personalizadas
+#### Ubicación
 
-Puedes utilizarlas como material de consulta, documentación de referencia o como contexto para asistentes de inteligencia artificial.
+```text
+.claude/
+└── skills/
+    ├── ui-exploration-architect/
+    ├── accessibility-reviewer/
+    └── product-strategist/
+```
 
+#### Invocación
+
+```text
+Usa la skill UI Exploration Architect para rediseñar esta pantalla.
+```
+
+```text
+Aplica Accessibility Reviewer sobre este flujo.
+```
+
+---
+
+### Cursor
+
+#### Ubicación
+
+```text
+.ai/
+└── skills/
+    ├── ui-exploration-architect.md
+    ├── accessibility-reviewer.md
+    └── product-strategist.md
+```
+
+o
+
+```text
+.cursor/
+└── rules/
+```
+
+#### Invocación
+
+```text
+Usa UI Exploration Architect para generar alternativas.
+```
+
+```text
+Aplica Design System Guardian antes de proponer cambios.
+```
+
+---
+
+### Gemini IDE
+
+#### Ubicación
+
+```text
+.ai/
+└── skills/
+```
+
+o
+
+```text
+.gemini/
+```
+
+#### Invocación
+
+```text
+Usa Product Strategist para analizar este requerimiento.
+```
+
+```text
+Aplica UX Researcher para identificar oportunidades.
+```
+
+---
+
+# Estructura Recomendada
+
+```text
+.ai/
+│
+├── skills/
+│   ├── product-strategist.md
+│   ├── ux-researcher.md
+│   ├── ui-exploration-architect.md
+│   ├── accessibility-reviewer.md
+│   ├── design-system-guardian.md
+│   └── frontend-reviewer.md
+│
+├── templates/
+├── frameworks/
+└── references/
+```
 
 ## 🌱 Filosofía del proyecto
 
