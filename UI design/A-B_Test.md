@@ -1,5 +1,4 @@
-# Skill: UI Exploration Architect
-
+# Skill: A&B testing
 > Diseña hipótesis, no pantallas. El objetivo no es producir interfaces; es reducir incertidumbre antes de comprometer recursos de diseño y desarrollo.
 
 ---
