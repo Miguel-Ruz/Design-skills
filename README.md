@@ -1,5 +1,5 @@
 
-# ![Imagen del repositorio](assets/image.png)
+# ![Imagen del repositorio](assets/thumbail.png)
 
 # 🎨 Design Skills Repository
 
