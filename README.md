@@ -1,4 +1,5 @@
-![alt text](image.png)
+
+# ![Imagen del repositorio](assets/image.png)
 
 # 🎨 Design Skills Repository
 
