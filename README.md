@@ -1,6 +1,6 @@
 # 🎨 Design Skills Repository
 
-> Una colección abierta de skills para diseñadores que buscan crear mejores productos, tomar mejores decisiones y potenciar su trabajo con metodologías, buenas prácticas e inteligencia artificial.
+Una colección abierta de skills para diseñadores que buscan crear mejores productos, tomar mejores decisiones y potenciar su trabajo con metodologías, buenas prácticas e inteligencia artificial.
 
 ---
 
@@ -76,7 +76,7 @@ Toma lo que necesites, combínalo con tu experiencia y utilízalo para construir
 ¿Tienes una skill que podría ayudar a otros diseñadores?
 
 Las contribuciones son más que bienvenidas. Si deseas aportar una nueva skill o mejorar una existente, simplemente:
-Abre un **Pull Request (PR)** describiendo brevemente:
+>Abre un **Pull Request (PR)** describiendo brevemente:
    - Qué agrega o mejora tu contribución.
    - Qué problema ayuda a resolver.
    - En qué contexto puede utilizarse.
